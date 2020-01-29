@@ -1,7 +1,7 @@
 ![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")        
 
 # Adding Drive Space – Extending Disks From OS aka Spanned Volumes on SQL Server Datacenter Server in AWS
-By mikesdatawork on December 2, 2014**        
+**Poste Date: 12 2, 2014**        
 
 
 
